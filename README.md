@@ -4,14 +4,14 @@
 
 We build a social network manager with dark mode support
 
-React basics
-How components works
-Componentization
-Components inside components
-ES6 modules in React
-UseRef Hook
-UseEffect Hook
-UseState Hook
+- React basics
+- How components works
+- Componentization
+- Components inside components
+- ES6 modules in React
+- UseRef Hook
+- UseEffect Hook
+- UseState Hook
 
 <img src="app.png" alt="Captura de App" height="700" />
 
