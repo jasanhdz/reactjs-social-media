@@ -13,7 +13,7 @@ UseRef Hook
 UseEffect Hook
 UseState Hook
 
-<img src="app.png" alt="Captura de App" />
+<img src="app.png" alt="Captura de App" height="700" />
 
 ## ¿Cómo funciona?
 
