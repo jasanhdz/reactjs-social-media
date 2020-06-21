@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs-social-media/static/css/main.324db224.chunk.css",
+    "main.js": "/reactjs-social-media/static/js/main.d675ee7f.chunk.js",
+    "main.js.map": "/reactjs-social-media/static/js/main.d675ee7f.chunk.js.map",
+    "runtime-main.js": "/reactjs-social-media/static/js/runtime-main.8f7cb676.js",
+    "runtime-main.js.map": "/reactjs-social-media/static/js/runtime-main.8f7cb676.js.map",
+    "static/js/2.de161c3c.chunk.js": "/reactjs-social-media/static/js/2.de161c3c.chunk.js",
+    "static/js/2.de161c3c.chunk.js.map": "/reactjs-social-media/static/js/2.de161c3c.chunk.js.map",
+    "index.html": "/reactjs-social-media/index.html",
+    "precache-manifest.30dea5d66663b463928f830819b09a26.js": "/reactjs-social-media/precache-manifest.30dea5d66663b463928f830819b09a26.js",
+    "service-worker.js": "/reactjs-social-media/service-worker.js",
+    "static/css/main.324db224.chunk.css.map": "/reactjs-social-media/static/css/main.324db224.chunk.css.map",
+    "static/js/2.de161c3c.chunk.js.LICENSE.txt": "/reactjs-social-media/static/js/2.de161c3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f7cb676.js",
+    "static/js/2.de161c3c.chunk.js",
+    "static/css/main.324db224.chunk.css",
+    "static/js/main.d675ee7f.chunk.js"
+  ]
+}
